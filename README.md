@@ -1,6 +1,3 @@
-<p align="center">
-
-</p>
 <h1 align="center">
     Cidades do Brasil landing page
 </h1>
@@ -23,7 +20,8 @@
 <img src="https://img.shields.io/static/v1?label=tec.&message=JavaScript&color=F7DF1E&style=for-the-badge&logo=JavaScript"/>
 </p>
 
-
+### Preview
+![Landing Page](/preview.png)
 
 ### 🏁Sobre
 Essa landing page tem como propósito mostra algumas cidades brasileiras para aproximar os turistas e trazer uma pré experiência.
