@@ -52,7 +52,7 @@ cd brazil-city-landing-page
 ### ✅Tecnologias
 
 * [Boxicons](https://iconify.design/icon-sets/bx/) version: v2.0.7;
-* [Swiper Bundle](https://www.npmjs.com/) version: v6.6.2;
+* [Swiper Bundle](https://swiperjs.com/get-started) version: v6.6.2;
 * [Gsap](https://greensock.com/gsap/) version: 3.^;
 * HTLM5;
 * CSS3;
