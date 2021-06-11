@@ -130,12 +130,12 @@ img {
 }
 
 /*========== INLANDS ==========*/
-.islands {
+.landing {
   height: 100vh;
   position: relative;
 }
 
-.islands-bg {
+.landing-bg {
   position: absolute;
   top: 0;
   left: 0;
@@ -145,7 +145,7 @@ img {
   object-position: center;
 }
 
-.islands-container {
+.landing-container {
   position: relative;
   height: 100%;
   display: grid;
@@ -153,24 +153,24 @@ img {
   align-content: center;
 }
 
-.islands-subtitle, .islands-title, .islands-description {
+.landing-subtitle, .landing-title, .landing-description {
   color: var(--body-color);
 }
 
-.islands-subtitle {
+.landing-subtitle {
   font-size: var(--big-font-size);
   font-weight: var(--font-medium);
 }
 
-.islands-title {
+.landing-title {
   font-size: var(--biggest-font-size);
 }
 
-.islands-description {
+.landing-description {
   margin-bottom: 1rem;
 }
 
-.islands-button {
+.landing-button {
   display: inline-flex;
   align-items: center;
   padding: 1rem 1.5rem;
@@ -180,11 +180,11 @@ img {
   font-weight: var(--font-medium);
 }
 
-.islands-button:hover {
+.landing-button:hover {
   background-color: var(--first-color-lighter);
 }
 
-.islands-button-icon {
+.landing-button-icon {
   font-size: 1.5rem;
   margin-left: .5rem;
 }
@@ -231,7 +231,7 @@ img {
   .controls-container {
     column-gap: .25rem;
   }
-  .islands-popup-video {
+  .landing-popup-video {
     width: 230px;
     height: 100px;
   }
@@ -254,26 +254,26 @@ img {
   .nav-toggle {
     display: none;
   }
-  .islands-container {
+  .landing-container {
     grid-template-columns: repeat(2, 1fr);
   }
-  .islands-description {
+  .landing-description {
     padding-right: 5rem;
     margin-bottom: 2rem;
   }
-  .islands-video {
+  .landing-video {
     justify-content: center;
     align-items: center;
     padding: 0;
   }
-  .islands-video-icon {
+  .landing-video-icon {
     font-size: 3rem;
   }
-  .islands-popup-video {
+  .landing-popup-video {
     width: 500px;
     height: 250px;
   }
-  .islands-popup-close {
+  .landing-popup-close {
     font-size: 1.5rem;
   }
   .controls {
@@ -299,14 +299,14 @@ img {
     margin-left: auto;
     margin-right: auto;
   }
-  .islands-description {
+  .landing-description {
     padding-right: 11rem;
   }
 }
 
 /* For tall screens on mobiles y desktop*/
 @media screen and (min-height: 721px) {
-  .islands {
+  .landing {
     height: 640px;
   }
 }
