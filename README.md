@@ -28,7 +28,7 @@ Essa landing page tem como propósito mostra algumas cidades brasileiras para ap
 
 
 ### 🧰Instalação
-#### Caso 1: Apenas quero visualizar  
+#### Caso 1: Apenas quero visualizar
 - Não é necessário instalar nada, basta ter um navegador e acessoa internet. Continue lendo para mais detalhes.
 
 #### 🚧 Alguns pré-requisitos 🚧
@@ -64,7 +64,5 @@ os recursos.
 ### Features
 
 - [x] navegação entre páginas (home, explore, destinos e hoteis);
-- [x] efeito de slide;
+- [x] efeito de slide (toast screen);
 - [x] Banner demostrativo de algumas cidades.
-
-
